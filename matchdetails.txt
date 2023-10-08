@@ -1,0 +1,31 @@
+Ground: R.premadasa stadium
+Time: 3pm 
+Umpire: Kumar dharmasena
+Umpire: Ruchira palliyagurege
+
+Team India
+Player: Rohit Sharma 85 0 (c)
+Player: Shubman Gill 82 0
+Player: Virath kohli 90 0
+Player: KL Rahul 82 0
+Player: Ishan Krishan 79 0
+Player: Hardik pandya 84 83
+Player: Axel patel 74 74
+Player: Ravindra Jadeja 76 76
+Player: Kuldeeep Yadev 72 81
+Player: Shardul Tahkur 71 83
+Player: Jasprit Bumrah 65 90
+
+
+Team Srilanka
+Player: Kusal Perera 82 0
+Player: Pathum Nissanka 84 0
+Player: Kusal Mendis 85 0
+Player: Sadeera Samarawickrama 79 0
+Player: Charith Asalanka 82 0
+Player: Dhananjaya deSilva 83 81
+Player: Dasun Shanaka 78 78 (c)
+Player: Wanindu Hasaranga 75 84
+Player: Dunith Wellalage 79 88
+Player: Pramod madushan 68 78
+Player: Matheesha Pathirana 62 83
